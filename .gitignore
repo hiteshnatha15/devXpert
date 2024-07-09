@@ -1,0 +1,4 @@
+node_modules
+.env
+backend/configs/devxpert-coding-platform-firebase-adminsdk-nm5xx-72043c7213.json
+backend/node_modules/ssh2/test/fixtures/id_rsa
